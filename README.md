@@ -7,7 +7,8 @@ Place the sales_data.csv file into your CWD (current working directory)
 Download the ipynb files and place in CWD
 
 # Running the notebook
-Check where your CWD is located at
+1. Check where your CWD is located at
+
 To view your CWD import os os.getcwd()
 
 Mine is 'C:\Users\kansh\Desktop\FYP'
